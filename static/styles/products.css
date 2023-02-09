@@ -45,6 +45,10 @@
 #nav_container{
 margin-right: 20px;
 }
+
+#product_table{
+background-color: #F9902A!important;
+}
 /*
  * Dummy devices (replace them with your own or something else entirely!) 512*300
  */
